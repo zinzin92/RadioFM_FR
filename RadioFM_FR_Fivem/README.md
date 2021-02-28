@@ -2,7 +2,6 @@
 
 # radio-FiveM
 
-<h2>RadioFM_FR</h2>
 
 Découvrez cette nouvelle auto radio pour FiveM, elle comprend 10 stations de radio française avec leurs logo dans la roue des radios.
 
