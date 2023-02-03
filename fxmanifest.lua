@@ -1,4 +1,5 @@
-resource_manifest_version "44febabe-d386-4d18-afbe-5e627f4af937"
+fx_version 'cerulean'
+game 'gta5'
 
 -- Example custom radios
 supersede_radio "RADIO_02_POP" { url = "http://generationfm-rap.ice.infomaniak.ch/generationfm-rap-high.mp3", volume = 0.2, name = "Génération RAP/HIP-HOP"  }
