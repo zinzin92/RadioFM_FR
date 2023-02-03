@@ -14,7 +14,7 @@ En cas de question ou de problème n'hésitez pas à me contacter.
 
 ## Configuration
 
-Pour chaque radio personnalisée, ajoutez cette ligne dans _resource.lua:
+Pour chaque radio personnalisée, ajoutez cette ligne dans fxmanifest.lua:
 
 ```lua
 supersede_radio "[ORIGINAL_RADIO_NAME]" { url = "[RADIO URL]", volume = 0.5, name = "[NEW RADIO NAME]" }
