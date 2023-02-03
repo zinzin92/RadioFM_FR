@@ -19,6 +19,10 @@ Pour chaque radio personnalisée, ajoutez cette ligne dans fxmanifest.lua:
 ```lua
 supersede_radio "[ORIGINAL_RADIO_NAME]" { url = "[RADIO URL]", volume = 0.5, name = "[NEW RADIO NAME]" }
 ```
+Exemple:
+```lua
+supersede_radio "RADIO_01_CLASS_ROCK" { url = "http://www.skyrock.fm/stream.php/tunein16_128mp3.mp3", volume = 0.2, name = "SkyRock"  }
+```
 
 Liste des noms de radio:
 
